@@ -11,12 +11,14 @@ Gestaltung von Gesten. In welchem Ausmaß die Entwicklung und Gestaltung durch
 Interaktionspatterns unterstützt werden und wie gut die erarbeitete Lösung beim End-
 anwender ankommt, hängt von verschiedenen Kriterien ab, die im Rahmen dieser
 Arbeit näher betrachtet werden.
+
 Die vorliegende Arbeit setzt an der Bachelorarbeit „Implementierung einer gestenba-
 sierten Interaktion zum Datenaustausch zwischen mobilen Geräten“ an, die von Ben-
 jamin Grab 2015 an der Hochschule Mannheim verfasst wurde [1]. Auf Grundlage
 einer bereitgestellten Datenaustausch-App, die durch ein Zusammenstoßen zweier
 Androidgeräte einen Datentransfer zwischen diesen ermöglicht, wird im Rahmen der
 vorliegenden Arbeit der Patternkandidat „Bump“ näher betrachtet und evaluiert.
+
 Ziel dieser Arbeit ist es zum einen, verschiedene Kriterien für die Evaluation von
 Patterns zusammenzutragen, zum anderen besteht das Ziel darin herauszufinden, wel-
 cher Threshold (Schwellenwert) für das Zusammenstoßen zweier mobiler Androidge-
