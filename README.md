@@ -29,3 +29,6 @@ auswerten zu können. Zudem wird das Evaluierungskonzept für das daran ansetzen
 Experiment erarbeitet, das zur Validierung des ermittelten Thresholds sowie zur Er-
 mittlung der Lieblingsbumpstärke des Endanwenders dient und den Bump auf Intuiti-
 vität prüft.
+
+[1] Grab, B. (2015). Implementierung einer gestenbasierten Interaktion zum Daten-
+austausch zwischen mobilen Geräten. Bachelorarbeit. Hochschule Mannheim.
